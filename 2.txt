@@ -1,0 +1,50 @@
+Hi,
+
+I’ve read a lot and watch a lot but still no closer to understanding the difference between channels and categories. It may well be a case of not seeing the wood through the trees!
+
+From what I understand the very basic structure goes like this
+
+CHANNEL -> CATEGORY GROUP -> CATEGORIES
+
+If this is wrong, please let me know why. Otherwise let’s assume we have an online magazine
+
+* Articles
+** Reviews
+** News
+** Interviews
+
+* Artists
+** Profile
+
+* Videos
+** Watch
+
+In my mind, I can’t see where a channel would be used or in other words, I can’t see why I would need more than one channel. Any reason why I wouldn’t have Articles, Artists and Videos as the category groups and their children under them as categories? Where does the channel come into play and would I want to use more than one? Wouldn’t it simply be:
+
+Articles (Category Group)
+Artists (Category Group)
+Videos (Category Group)
+
+Reviews (Category)
+News (Category)
+Interviews (Category)
+Profile (Category)
+Watch (Category)
+
+Why would I want to use more than one channel?
+
+Even thinking about it another way, I can’t see why you would need category groups so for instance I’d have:
+
+Articles (Channel)
+Artists (Channel)
+Videos (Channel)
+
+Reviews (Category)
+News (Category)
+Interviews (Category)
+Profile (Category)
+Watch (Category)
+
+Thanks in advance,
+
+JJ
